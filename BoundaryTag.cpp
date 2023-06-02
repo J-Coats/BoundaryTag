@@ -1,11 +1,3 @@
-/**
- * Author: Jared Coats
- * Assignment: Project 3 -- Boundary Tag Memory Management
- * Class: CS 450
- * Date: 04/21/2023
- *
- */
-
 
 #include "BoundaryTag.hpp"
 #include <cstdio>
