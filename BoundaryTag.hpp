@@ -47,7 +47,7 @@ private:
     int iterIdx;
 
 
-    // You are not required to implement the following functions.
+ 
 /*
     void addToFreeList( void* ptrToMem, int size );
     void deleteFromFreeList( void* ptrToMem );
