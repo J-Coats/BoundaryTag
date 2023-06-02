@@ -15,6 +15,7 @@ An allocated block contains only the size fields.
 
 Size |	Actual bytes being allocated |	Size
 
+driver.cpp & driver2.cpp are used specifically for testing the BoundaryTag class implementation.
 
 In order to test: 
 run make
